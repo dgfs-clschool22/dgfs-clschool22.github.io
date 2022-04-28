@@ -17,11 +17,17 @@ Lexical entries for individual verbs will be written and descriptions of certain
 
 ## Deep Reinforcement Learning for Dialogue Generation (Heriberto Cuayahuitl)
 Different subfields within AI have made substantial progress regarding training machines with some abilities to generate sequences of sentences to form dialogues that can be used on text-based or spoken user interfaces. Deep Reinforcement Learning (DRL) is about training systems from (delayed) rewards using neural networks. In this course you will acquire knowledge (and skills) of different methods and algorithms to train DRL-based systems for generating dialogues. While the course will mainly focus on task-oriented dialogues, open-ended dialogue research will also be addressed. Concretely, the following topics will be covered during this self-contained course:
+
 •	Introduction to neural nets and reinforcement learning
+
 •	Recurrent and Transformer neural nets for dialogue generation
+
 •	Value-based deep reinforcement learning for dialogue generation
+
 •	Policy-based deep reinforcement learning for dialogue generation
+
 •	Frontiers in deep reinforcement learning for dialogue generation
+
 In this course we will alternate between conceptual and practical sessions on each of the topics above. During the practical sessions, you will be provided with example programs and publicly available dialogue data to train example DRL-based dialogue systems. Last, the course will conclude with a discussion on the frontiers of dialogue research.
 
 ## Visually Grounded Lexical Semantics (Carina Silberer)
