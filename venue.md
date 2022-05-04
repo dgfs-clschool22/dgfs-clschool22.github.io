@@ -3,13 +3,10 @@
 
 ## Location 
 
-Humboldt-Universität zu Berlin 
-
-Institut für deutsche Sprache und Linguistik (IdSL)
-
-Dorotheenstraße 24
-
-D-10117 Berlin 
+Humboldt-Universität zu Berlin <br>
+Institut für deutsche Sprache und Linguistik (IdSL) <br>
+Dorotheenstraße 24 <br>
+D-10117 Berlin <br>
 
 For travel directions, please see the Contact page of the IdSL.
 
