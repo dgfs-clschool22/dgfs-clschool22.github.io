@@ -14,17 +14,24 @@ Arriving at the university’s campus, look for our Fall School sign posts to fi
 
 ## Public transport
 
-In order to travel in and around Berlin, see the BVG public transit association website for connections and timetables.
+In order to travel in and around Berlin, see the [BVG public transit association website](https://www.bvg.de/de) for connections and timetables.
 
 ## Welcome Desk 
+tba
 
 ## Organizing secretariat
+tba
 
 ## Computer and internet access
 
 Until now, IdSL provide an wireless internet access via eduroam. So if you already have an eduroam account, you can directly access the internet through your laptop or phone. If you do not, please explicitly request eduroam access in an e-mail to us and make sure that it contains your name and email address. 
 
 ## Activity tips
+tba
+
 ### Berlin for tourists
+tba
 ### Events in Berlin 
+tba
 ### Recommendations
+tba
