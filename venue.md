@@ -30,7 +30,7 @@ Until now, IdSL provide an wireless internet access via eduroam. So if you alrea
 tba
 
 ### Berlin for tourists
-tba
+#### [General Information](https://www.visitberlin.de/de) 
 ### Events in Berlin 
 tba
 ### Recommendations
