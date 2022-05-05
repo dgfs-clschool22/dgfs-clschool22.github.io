@@ -2,6 +2,13 @@
 
 # Daily Schedule
 
+| first Week |
+| --- | --- |
+| XX-XX | TITEL |
+| second Week |
+| --- | --- |
+| XX-XX | TITEL |
+
 # Evenig Lectures
 
 # Social Activities
