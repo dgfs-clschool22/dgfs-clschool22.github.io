@@ -4,11 +4,13 @@
 
 | first Week |
 | --- | --- |
-| XX-XX | TITEL |
+| Time tba | TITEL tba |
+| Time tba | TITEL tba |
 
 | second Week |
 | --- | --- |
-| XX-XX | TITEL |
+| Time tba | TITEL tba |
+| Time tba | TITEL tba |
 
 # Evenig Lectures
 
