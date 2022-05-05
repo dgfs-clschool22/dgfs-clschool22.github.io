@@ -1,6 +1,6 @@
 # Program
 Programposter
-# Daily Schedule
+## Daily Schedule
 
 | --- | --- |
 |     | **First week**    |
@@ -10,28 +10,28 @@ Programposter
 | Time tba | TITEL tba    |
 | Time tba | TITEL tba    |
 
-# Evenig Lectures
+## Evenig Lectures
 
 | --- | --- |
 | Time tba | TITEL tba |
 | Time tba | TITEL tba |
 
-# Social Activities
+## Social Activities
 
 | --- | --- |
 | Time tba | ACTIVITY tba |
 | Time tba | ACTIVITY tba |
 
-# Course Abstracts
+## Course Abstracts
 
-## Introduction to Grammar Development [(Stefan Müller)](https://www.linguistik.hu-berlin.de/de/institut/mitarbeiter/derzeitige-hochschullehrer/1689350) 
+### Introduction to Grammar Development [(Stefan Müller)](https://www.linguistik.hu-berlin.de/de/institut/mitarbeiter/derzeitige-hochschullehrer/1689350) 
 Participants of this course will learn how to implement HPSG grammars using the TRALE system, which is currently used by various researchers to develop grammars for German, Danish, Persian, English, French, Polish, Maltese, Arabic, and Mandarin Chinese.
 
 The course participants will work in lab sessions on grammars of German and modify and extend them. The grammars capture morphological, syntactic, and semantic phenomena. Advanced participants can work on grammars for languages of their choice.
 
 Lexical entries for individual verbs will be written and descriptions of certain verb classes will be formulated, constraints for agreement (subject verb agreement) are introduced into the grammar and analyzes for adjuncts and complements will be developed. Generalizations over lexical entries will be captured by introducing lexical rules and classifying lexical items and using macros for the description of lexical items.
 
-## Deep Reinforcement Learning for Dialogue Generation [(Heriberto Cuayahuitl)](https://staff.lincoln.ac.uk/hcuayahuitl)  
+### Deep Reinforcement Learning for Dialogue Generation [(Heriberto Cuayahuitl)](https://staff.lincoln.ac.uk/hcuayahuitl)  
 Different subfields within AI have made substantial progress regarding training machines with some abilities to generate sequences of sentences to form dialogues that can be used on text-based or spoken user interfaces. Deep Reinforcement Learning (DRL) is about training systems from (delayed) rewards using neural networks. In this course you will acquire knowledge (and skills) of different methods and algorithms to train DRL-based systems for generating dialogues. While the course will mainly focus on task-oriented dialogues, open-ended dialogue research will also be addressed. Concretely, the following topics will be covered during this self-contained course:
 
 •	Introduction to neural nets and reinforcement learning
@@ -46,7 +46,7 @@ Different subfields within AI have made substantial progress regarding training 
 
 In this course we will alternate between conceptual and practical sessions on each of the topics above. During the practical sessions, you will be provided with example programs and publicly available dialogue data to train example DRL-based dialogue systems. Last, the course will conclude with a discussion on the frontiers of dialogue research.
 
-## Visually Grounded Lexical Semantics [(Carina Silberer)](https://www.ims.uni-stuttgart.de/institut/team/Silberer/)
+### Visually Grounded Lexical Semantics [(Carina Silberer)](https://www.ims.uni-stuttgart.de/institut/team/Silberer/)
 How do humans use language to communicate with each other in and about the real world? How can we equip systems that capture this ability to understand and use human language in the physical world? This course addresses these theoretical and practical questions, at whose core lies the fundamental problem of grounding language to perception.  
 The course thus takes a step beyond computational semantics based on purely language data, and  discusses and examines the semantic connection between natural language and visual perception in the world. 
 
