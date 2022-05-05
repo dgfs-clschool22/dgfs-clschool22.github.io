@@ -1,4 +1,4 @@
-# DGfS Computational Linguistics Fall School 22
+# DGfS Computational Linguistics Fall School 2022
   
 The [Computational Linguistics Fall School](https://dgfs.de/en/cl/fall-schools.html) was established in 2001 by the [Special Interest Group on Computational Linguistics](https://dgfs.de/en/cl/) of the [German Linguistic Society (Deutsche Gesellschaft für Sprachwissenschaft, DGfS)](https://dgfs.de/en/).
 
