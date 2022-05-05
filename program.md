@@ -14,6 +14,7 @@
 
 # Evenig Lectures
 
+| --- | --- |
 | Time tba | TITEL tba |
 | Time tba | TITEL tba |
 
