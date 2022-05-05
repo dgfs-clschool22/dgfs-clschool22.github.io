@@ -18,6 +18,10 @@
 
 # Social Activities
 
+| --- | --- |
+| Time tba | ACTIVITY tba |
+| Time tba | ACTIVITY tba |
+
 # Course Abstracts
 
 ## Introduction to Grammar Development (Stefan Müller) 
