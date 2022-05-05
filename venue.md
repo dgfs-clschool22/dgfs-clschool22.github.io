@@ -8,7 +8,7 @@ Institut für deutsche Sprache und Linguistik (IdSL) <br>
 Dorotheenstraße 24 <br>
 D-10117 Berlin <br>
 
-For travel directions, please see the Contact page of the IdSL.
+For travel directions, please see the [Contact page of the IdSL](https://www.linguistik.hu-berlin.de/de/institut/kontakt) or follow this [Link](https://www.google.com/maps/place/Dorotheenstra%C3%9Fe+24,+10117+Berlin/@52.5192856,13.3902735,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851dcc2c9cd0b:0xff117db4f09928b9!8m2!3d52.5192856!4d13.3924622).
 
 Arriving at the university’s campus, look for our Fall School sign posts to find your way to the venue.
 
