@@ -31,6 +31,8 @@ tba
 
 ### Berlin for tourists
 #### [General Information](https://www.visitberlin.de/de) 
+#### [Sightseeing](https://www.visitberlin.de/de/top-10-sehenswuerdigkeiten-berlin)
+#### [Tickets for Sightseeing](https://www.visitberlin.de/de/tickets-veranstaltungen-sehenswuerdigkeiten-berlin)
 ### Events in Berlin 
 tba
 ### Recommendations
