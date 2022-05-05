@@ -3,7 +3,7 @@
 # Daily Schedule
 
 | first Week           |
-| --- | --- |
+| -------------------- | 
 | Time tba | TITEL tba |
 | Time tba | TITEL tba |
 
