@@ -14,6 +14,9 @@
 
 # Evenig Lectures
 
+| Time tba | TITEL tba |
+| Time tba | TITEL tba |
+
 # Social Activities
 
 # Course Abstracts
