@@ -2,15 +2,15 @@
 
 # Daily Schedule
 
-|     | First week     |
+|     | First week        |
 | --- | --- |
-| Time tba | TITEL tba |
-| Time tba | TITEL tba |
+| Time tba | TITEL tba    |
+| Time tba | TITEL tba    |
 
-|     | Second week    |
+|     | Second week       |
 | --- | --- |
-| Time tba | TITEL tba |
-| Time tba | TITEL tba |
+| Time tba | TITEL tba    |
+| Time tba | TITEL tba    |
 
 # Evenig Lectures
 
