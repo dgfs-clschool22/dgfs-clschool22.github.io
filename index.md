@@ -1,7 +1,5 @@
 # DGfS Computational Linguistics Fall School 22
-
-This website is still under construction  
-More information will follow soon  
+  
 The Computational Linguistics Fall School was established in 2001 by the Special Interest Group on Computational Linguistics of the German Linguistic Society (Deutsche Gesellschaft für Sprachwissenschaft, DGfS).
 
 Since then, the fall school is a biennial event for students who wish to broaden their knowledge of techniques and methods used in natural language processing, including computational linguistics fields not traditionally taught in standard degree programs. Because of the Corona-Pandemic, we were not able to host the event for the last two years.
