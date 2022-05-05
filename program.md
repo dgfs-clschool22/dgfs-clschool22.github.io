@@ -2,12 +2,12 @@
 
 # Daily Schedule
 
-| first Week           |
-| -------------------- | 
+|     | first Week     |
+| --- | --- |
 | Time tba | TITEL tba |
 | Time tba | TITEL tba |
 
-| second Week          |
+|     | second Week    |
 | --- | --- |
 | Time tba | TITEL tba |
 | Time tba | TITEL tba |
