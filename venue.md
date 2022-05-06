@@ -1,6 +1,5 @@
 # Venue
-## Contents
-
+In this section you will find information about the location and organisation of the fall school, public transport and activity tips in Berlin. 
 ## Location 
 
 Humboldt-Universität zu Berlin <br>
