@@ -44,9 +44,9 @@ tba
 - weekly [flea market](https://www.berlin.de/special/shopping/flohmaerkte/) in every district of Berlin
 
 ### Recommendations
-- [flea market Mauerpark](http://www.flohmarktimmauerpark.de/)
-- [Curry36](https://curry36.de/de/)
 - [Museumsinsel](https://www.museumsinsel-berlin.de/home/)
 - [East Side Gallery](https://www.berlin.de/sehenswuerdigkeiten/3559756-3558930-east-side-gallery.html)
 - [Hackesche Höfe Kino](https://www.hoefekino.de/#this-week)
+- [flea market Mauerpark](http://www.flohmarktimmauerpark.de/)
 - [Birgit&Bier](https://www.birgit.club/) or [Cafe am neuen See](https://www.cafeamneuensee.de/)
+- [Curry36](https://curry36.de/de/)
