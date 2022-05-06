@@ -34,13 +34,13 @@ tba
 #### [Sightseeing](https://www.visitberlin.de/de/top-10-sehenswuerdigkeiten-berlin)
 #### [Tickets for Sightseeing](https://www.visitberlin.de/de/tickets-veranstaltungen-sehenswuerdigkeiten-berlin)
 ### Events in Berlin 
-starting 09/09:   [Berlin Fall Festival](https://www.berlin.de/en/events/6279065-2842498-berliner-herbst-rummel.en.html)
-ends 09/20:       [MUsicfestiavl](https://www.berlin.de/events/2097261-2229501-musikfest-berlin.html)
-09/20 - 09/23:    [InnoTrans 2022](https://www.berlin.de/wirtschaft/messen/3250206-1612022-innotrans.html)
-09/21 - 09/23:    [Restored Films](https://www.berlin.de/kino/filmfestivals/6333125-2020379-film-restored.html)
-09/22, 09/25:     [Favourites Film Festival](https://www.berlin.de/kino/filmfestivals/1992187-2020379-favourites-film-festival.html)
-09/24, 09/25:     [BMW Berlin Marathon](https://www.berlin.de/special/sport-und-fitness/laufkalender/62716-36032-berlin-marathon.html)
-09/30:            [Triennale der Moderne](https://www.berlin.de/events/3097448-2229501-triennale-moderne-berlin.html)
+starting 09/09:   [Berlin Fall Festival](https://www.berlin.de/en/events/6279065-2842498-berliner-herbst-rummel.en.html)<br>
+ends 09/20:       [Musicfestiavl](https://www.berlin.de/events/2097261-2229501-musikfest-berlin.html)<br>
+09/20 - 09/23:    [InnoTrans 2022](https://www.berlin.de/wirtschaft/messen/3250206-1612022-innotrans.html)<br>
+09/21 - 09/23:    [Restored Films](https://www.berlin.de/kino/filmfestivals/6333125-2020379-film-restored.html)<br>
+09/22, 09/25:     [Favourites Film Festival](https://www.berlin.de/kino/filmfestivals/1992187-2020379-favourites-film-festival.html)<br>
+09/24, 09/25:     [BMW Berlin Marathon](https://www.berlin.de/special/sport-und-fitness/laufkalender/62716-36032-berlin-marathon.html)<br>
+09/30:            [Triennale der Moderne](https://www.berlin.de/events/3097448-2229501-triennale-moderne-berlin.html)<br>
 
 ### Recommendations
 tba
