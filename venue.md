@@ -30,9 +30,9 @@ Until now, IdSL provide an wireless internet access via eduroam. So if you alrea
 tba
 
 ### Berlin for tourists
-#### [General Information](https://www.visitberlin.de/de) 
-#### [Sightseeing](https://www.visitberlin.de/de/top-10-sehenswuerdigkeiten-berlin)
-#### [Tickets for Sightseeing](https://www.visitberlin.de/de/tickets-veranstaltungen-sehenswuerdigkeiten-berlin)
+#### [General Information](https://www.visitberlin.de/de)<br>
+#### [Sightseeing](https://www.visitberlin.de/de/top-10-sehenswuerdigkeiten-berlin)<br>
+#### [Tickets for Sightseeing](https://www.visitberlin.de/de/tickets-veranstaltungen-sehenswuerdigkeiten-berlin)<br>
 ### Events in Berlin 
 starting 09/09:   [Berlin Fall Festival](https://www.berlin.de/en/events/6279065-2842498-berliner-herbst-rummel.en.html)<br>
 ends 09/20:       [Musicfestiavl](https://www.berlin.de/events/2097261-2229501-musikfest-berlin.html)<br>
