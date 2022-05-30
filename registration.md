@@ -9,7 +9,7 @@ For a registering, please use the following [web form](https://lets-meet.org/reg
 
 ## Grants
 
-To support participation in the fall school 2022, we are going to award at least 6 scholarships with 200-300 EUR. The grant holders will be chosen on the basis of intern several criteria considering the need of support. If you think you might be eligible for the scholarship, you are welcome to send your motivationalletter (1 Page) to Hoebel@leibniz-zas.de until July 09th. 
+To support participation in the fall school 2022, we are going to award at least 6 scholarships with 200-300 EUR. The grant holders will be chosen on the basis of intern several criteria considering the need of support. If you think you might be eligible for the scholarship, you are welcome to send your motivation letter (1 Page) to Hoebel@leibniz-zas.de until July 09th. 
 
 # Deadlines
 
