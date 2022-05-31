@@ -11,7 +11,7 @@ Programposter
 ## Evenig Lectures
 
 | --- | --- |
-| WED, Sept. 21st 18.00 | TITEL tba |
+| Sept. 21, 18.00 | TITEL tba |
 
 ## Social Activities
 
