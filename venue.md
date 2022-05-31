@@ -22,6 +22,10 @@ tba
 
 Until now, IdSL provide an wireless internet access via eduroam. So if you already have an eduroam account, you can directly access the internet through your laptop or phone. If you do not, please explicitly request eduroam access in an e-mail to us and make sure that it contains your name and email address. 
 
+## University canteen and cafeteria chip cards
+
+Unfortunaly we are not able to provide you with chipcards for the university canteen or cafeteria. However, you do not necessarily need these cards to eat in the canteen. It is also  possible to pay with cash. If you do not want to eat in a canteen, feel free to explore the restaurants in the area. 
+
 ## Activity tips
 tba
 
