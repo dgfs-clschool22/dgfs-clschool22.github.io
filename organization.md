@@ -3,7 +3,6 @@
 ## Organization Committee
 Prof. Dr. Stefan Müller<br>
 Dr. Anton Benz<br>
-Henry Salfner<br>
 Sophia Höbel<br>
 
 ## Contact 
