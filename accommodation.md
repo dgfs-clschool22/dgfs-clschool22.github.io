@@ -4,7 +4,7 @@ There is a limited number of reserved rooms for the fall school – see below. P
 ## Reserved Rooms
 
 [Gästehaus der Humboldt-Universität zu Berlin](https://www.ta.hu-berlin.de/gaestehaus)
-- flat with two or three Bedrooms and shared kitchen and bathroom <br>
+- flat with two or three bedrooms, shared kitchen and bathroom <br>
 - reserved until **3rd of September** <br>
 
 Please request the allotment booking number from us via e-mail <br>
