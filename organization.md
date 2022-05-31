@@ -7,4 +7,4 @@ Henry Salfner<br>
 Sophia Höbel<br>
 
 ## Contact 
-If you have any questions regarding this event, please contact us via E-Mail to the following adress: Hoebel@leibniz-zas.de
+If you have any questions regarding this event, please contact us via E-Mail to the following adress: __Hoebel@leibniz-zas.de__
