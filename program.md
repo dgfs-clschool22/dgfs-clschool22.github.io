@@ -11,13 +11,11 @@ Programposter
 ## Evenig Lectures
 
 | --- | --- |
-| Time tba | TITEL tba |
-| Time tba | TITEL tba |
+| WED, Sept. 21st 18.00 | TITEL tba |
 
 ## Social Activities
 
 | --- | --- |
-| Time tba | ACTIVITY tba |
 | Time tba | ACTIVITY tba |
 
 ## Course Abstracts
