@@ -3,21 +3,17 @@ In this section you will find information about the location and organisation of
 ## Location 
 
 Humboldt-Universität zu Berlin <br>
-Institut für deutsche Sprache und Linguistik (IdSL) <br>
 Hausvoigteiplatz 5-7 <br>
 Room: 0202 <br>
 D-10117 Berlin <br>
 
-For travel directions, please follow this [Link][(https://www.google.de/maps/place/Hausvogteipl.+5,+10117+Berlin/@52.5131269,13.3935906,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851d98c3605e9:0xf3d76ceba9e95a1f!8m2!3d52.5131237!4d13.3957793]
+For travel directions, please follow this [Link](https://www.google.de/maps/place/Hausvogteipl.+5,+10117+Berlin/@52.5131269,13.3935906,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851d98c3605e9:0xf3d76ceba9e95a1f!8m2!3d52.5131237!4d13.3957793)
 
 Arriving at the university’s campus, look for our Fall School sign posts to find your way to the venue.
 
 ## Public transport
 
 In order to travel in and around Berlin, see the [BVG public transit association website](https://www.bvg.de/de) for connections and timetables.
-
-## Welcome Desk 
-tba
 
 ## Organizing secretariat
 tba
@@ -47,6 +43,6 @@ tba
 - [Museumsinsel](https://www.museumsinsel-berlin.de/home/)
 - [East Side Gallery](https://www.berlin.de/sehenswuerdigkeiten/3559756-3558930-east-side-gallery.html)
 - [Hackesche Höfe Kino](https://www.hoefekino.de/#this-week)
-- [flea market Mauerpark](http://www.flohmarktimmauerpark.de/)
+- [flea market Mauerpark](http://www.flohmarktimmauerpark.de/) (only on sundays)
 - [Birgit&Bier](https://www.birgit.club/) or [Cafe am neuen See](https://www.cafeamneuensee.de/)
 - [Curry36](https://curry36.de/de/)
