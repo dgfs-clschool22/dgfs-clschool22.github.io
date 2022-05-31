@@ -3,12 +3,10 @@ Programposter
 ## Daily Schedule
 
 | --- | --- |
-|     | **First week**    |
-| Time tba | TITEL tba    |
-| Time tba | TITEL tba    |
-|     | **Second week**   |
-| Time tba | TITEL tba    |
-| Time tba | TITEL tba    |
+|     | **19th-23rd**    |
+| 09.00-12.30 | Deep Reinforcement Learning for Dialogue Generation (Heriberto Cuayahuitl, Lincoln University) |
+| 14.00-17.30 | Visually Grounded Lexical Semantics (Carina Silberer, Stuttgart University)|
+
 
 ## Evenig Lectures
 
@@ -23,13 +21,6 @@ Programposter
 | Time tba | ACTIVITY tba |
 
 ## Course Abstracts
-
-### Introduction to Grammar Development [(Stefan Müller)](https://www.linguistik.hu-berlin.de/de/institut/mitarbeiter/derzeitige-hochschullehrer/1689350) 
-Participants of this course will learn how to implement HPSG grammars using the TRALE system, which is currently used by various researchers to develop grammars for German, Danish, Persian, English, French, Polish, Maltese, Arabic, and Mandarin Chinese.
-
-The course participants will work in lab sessions on grammars of German and modify and extend them. The grammars capture morphological, syntactic, and semantic phenomena. Advanced participants can work on grammars for languages of their choice.
-
-Lexical entries for individual verbs will be written and descriptions of certain verb classes will be formulated, constraints for agreement (subject verb agreement) are introduced into the grammar and analyzes for adjuncts and complements will be developed. Generalizations over lexical entries will be captured by introducing lexical rules and classifying lexical items and using macros for the description of lexical items.
 
 ### Deep Reinforcement Learning for Dialogue Generation [(Heriberto Cuayahuitl)](https://staff.lincoln.ac.uk/hcuayahuitl)  
 Different subfields within AI have made substantial progress regarding training machines with some abilities to generate sequences of sentences to form dialogues that can be used on text-based or spoken user interfaces. Deep Reinforcement Learning (DRL) is about training systems from (delayed) rewards using neural networks. In this course you will acquire knowledge (and skills) of different methods and algorithms to train DRL-based systems for generating dialogues. While the course will mainly focus on task-oriented dialogues, open-ended dialogue research will also be addressed. Concretely, the following topics will be covered during this self-contained course:
