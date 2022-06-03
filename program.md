@@ -1,5 +1,5 @@
 # Program
-Programposter
+
 ## Daily Schedule
 
 | --- | --- |
@@ -13,10 +13,6 @@ Programposter
 | --- | --- |
 | Sept. 21, 18.00 | TITEL tba |
 
-## Social Activities
-
-| --- | --- |
-| Time tba | ACTIVITY tba |
 
 ## Course Abstracts
 
