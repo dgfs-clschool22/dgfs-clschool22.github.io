@@ -5,7 +5,7 @@ For a registering, please use the following [web form](https://lets-meet.org/reg
 ## Fee
 
 - Early Bird: 25€ (non students: 35€) <br>
-- Regulation: 50€ (non students: 65€)<br>
+- Regular: 50€ (non students: 65€)<br>
 
 ## Grants
 
