@@ -1,6 +1,6 @@
 # Registration
 
-For a registering, please use the following [web form](https://lets-meet.org/reg/2db1281ebdd7e1ebc8)
+For a registering, please use the following [web form]([https://lets-meet.org/reg/2db1281ebdd7e1ebc8](https://www.eventbrite.de/manage/events/352582873867/tickets)
 
 ## Fee
 
