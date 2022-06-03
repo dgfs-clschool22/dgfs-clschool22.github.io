@@ -1,6 +1,6 @@
 # Registration
 
-For a registering, please use the following [web form]([https://www.eventbrite.de/manage/events/352582873867/tickets])
+For a registering, please use the following [web form](https://www.eventbrite.de/manage/events/352582873867/tickets)
 
 ## Fee
 
