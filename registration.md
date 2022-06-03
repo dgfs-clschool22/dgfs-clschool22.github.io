@@ -4,8 +4,8 @@ For a registering, please use the following [web form](https://www.eventbrite.de
 
 ## Fee
 
-- Early Bird: 25€ (non students: 35€) <br>
-- Regular: 50€ (non students: 65€)<br>
+- Early Bird: 25€ <br>
+- Regular: 50€ <br>
 
 ## Grants
 
