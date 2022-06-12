@@ -1,6 +1,6 @@
 # Registration
 
-For a registering, please use the following [web form]([https://www.eventbrite.de/e/computational-linguistics-fall-school-2022-registration-352582873867?keep_tld=1]).
+For a registering, please use the following [web form](https://www.eventbrite.de/e/computational-linguistics-fall-school-2022-registration-352582873867?keep_tld=1).
 
 ## Fee
 
