@@ -36,7 +36,6 @@ Unfortunaly we are not able to provide you with chipcards for the university can
 - 09/21 - 09/23:    [Restored Films](https://www.berlin.de/kino/filmfestivals/6333125-2020379-film-restored.html)<br>
 - 09/22, 09/25:     [Favourites Film Festival](https://www.berlin.de/kino/filmfestivals/1992187-2020379-favourites-film-festival.html)<br>
 - 09/24, 09/25:     [BMW Berlin Marathon](https://www.berlin.de/special/sport-und-fitness/laufkalender/62716-36032-berlin-marathon.html)<br>
-- 09/30:            [Triennale der Moderne](https://www.berlin.de/events/3097448-2229501-triennale-moderne-berlin.html)<br>
 - weekly [flea market](https://www.berlin.de/special/shopping/flohmaerkte/) in every district of Berlin
 
 ### Recommendations
