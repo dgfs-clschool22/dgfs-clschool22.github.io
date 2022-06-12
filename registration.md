@@ -1,6 +1,6 @@
 # Registration
 
-For a registering, please use the following [web form](https://www.eventbrite.de/manage/events/352582873867/tickets).
+For a registering, please use the following [web form]([https://www.eventbrite.de/e/computational-linguistics-fall-school-2022-registration-352582873867?keep_tld=1]).
 
 ## Fee
 
@@ -13,7 +13,7 @@ To support participation in the fall school 2022, we are going to award at least
 
 # Deadlines
 
-- July 10th: Deadline for the scholarship and the early bird registration <br>
+- July 13th: Deadline for the scholarship and the early bird registration <br>
 - September 5th: Registration closes <br>
 
 
