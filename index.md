@@ -6,7 +6,7 @@ Since then, the fall school is a biennial event for students who wish to broaden
 
 This is the 11th fall school offering two courses, each of which consists of ten 90-minutes lectures. All courses will be taught in English. 
 
-## This fall school is supported by: 
+### This fall school is supported by: 
 ![grafik](https://user-images.githubusercontent.com/104138646/173563403-e6171321-31b9-48b6-b73e-fdf997b23a05.png)
 ![grafik](https://user-images.githubusercontent.com/104138646/173561040-0d641d56-abb0-47c2-85d8-f0f69c830cb5.png)
 ![grafik](https://user-images.githubusercontent.com/104138646/173564264-50849444-9047-4e70-b1b6-0c1f8b3e5f98.png)
