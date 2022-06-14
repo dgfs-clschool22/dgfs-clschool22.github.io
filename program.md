@@ -3,7 +3,7 @@
 ## Daily Schedule
 **19th - 23rd of September**
 | --- | --- |
-| Period | Subject |
+| --- | --- |
 | 09.00-12.30 | **Deep Reinforcement Learning for Dialogue Generation** ([Heriberto Cuayahuitl](https://staff.lincoln.ac.uk/hcuayahuitl), Lincoln University) |
 | 14.00-17.30 | **Visually Grounded Lexical Semantics** ([Carina Silberer](https://www.ims.uni-stuttgart.de/institut/team/Silberer/), Stuttgart University)|
 
