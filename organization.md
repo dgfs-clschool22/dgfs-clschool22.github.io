@@ -7,3 +7,15 @@ Sophia Höbel, Leibniz-Zentrum Allgemeine Sprachwissenschaft<br>
 
 ## Contact 
 If you have any questions regarding this event, please contact us via E-Mail to the following adress: __Hoebel@leibniz-zas.de__
+
+**Legal notice
+
+| --- | --- |
+| Adresse | Leibniz-Zentrum Allgemeine Sprachwissenschaften <br> Schützenstraße 18 <br> 10117 Berlin <br> Deutschland|
+| Telefon | |
+| Fax | |
+| Internet |  |
+| Angaben gemäß §5 TMG | |
+| Externe Links | |
+| Ansprechperson und Institutsadresse |  |
+| Gestaltung und Inhalte | |
