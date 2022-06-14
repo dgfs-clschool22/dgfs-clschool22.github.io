@@ -7,7 +7,7 @@ Hausvoigteiplatz 5-7 <br>
 Room: 0202 <br>
 D-10117 Berlin <br>
 
-For travel directions, please follow this [Link](https://www.google.de/maps/place/Hausvogteipl.+5,+10117+Berlin/@52.5131269,13.3935906,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851d98c3605e9:0xf3d76ceba9e95a1f!8m2!3d52.5131237!4d13.3957793)
+For travel directions, please follow this [Link](https://www.google.de/maps/place/Hausvogteipl.+5,+10117+Berlin/@52.5131269,13.3935906,17z/data=!3m1!4b1!4m5!3m4!1s0x47a851d98c3605e9:0xf3d76ceba9e95a1f!8m2!3d52.5131237!4d13.3957793).
 
 Arriving at the university’s campus, look for our Fall School sign posts to find your way to the venue.
 
