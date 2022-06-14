@@ -9,3 +9,5 @@ This is the 11th fall school offering two courses, each of which consists of ten
 ## This fall school is supported by: 
 
 ![grafik](https://user-images.githubusercontent.com/104138646/173561040-0d641d56-abb0-47c2-85d8-f0f69c830cb5.png)
+
+![grafik](https://user-images.githubusercontent.com/104138646/173561835-3941b230-db44-4955-9152-f001972370d9.png | width=100)
