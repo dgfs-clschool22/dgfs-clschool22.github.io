@@ -8,14 +8,15 @@ Sophia Höbel, Leibniz-Zentrum Allgemeine Sprachwissenschaft<br>
 ## Contact 
 If you have any questions regarding this event, please contact us via E-Mail to the following adress: __Hoebel@leibniz-zas.de__
 
-**Legal notice
+**Legal notice**
 
 | --- | --- |
-| Adresse | Leibniz-Zentrum Allgemeine Sprachwissenschaften <br> Schützenstraße 18 <br> 10117 Berlin <br> Deutschland|
-| Telefon | |
-| Fax | |
-| Internet |  |
-| Angaben gemäß §5 TMG | |
-| Externe Links | |
-| Ansprechperson und Institutsadresse |  |
-| Gestaltung und Inhalte | |
+| Adresse | Leibniz-Zentrum Allgemeine Sprachwissenschaften <br> Schützenstraße 18 <br> 10117 Berlin <br> Deutschland |
+| Telefon | +49 30 20192-401 |
+| Fax | +49 30 20192-402 |
+| Internet | [Leibniz-Zentrum für Allgemeine Sprachwissenschaften](https://www.leibniz-zas.de/de/das-zas/institut) |
+| Angaben gemäß §5 TMG | Das Leibniz-Zentrum Allgemeine Sprachwissenschaft wird von dem Direktor Professor Dr. Manfred Krifka vertreten. <br> |
+| Externe Links | Diese Website enthält möglicherweise externe Links, die auf weitervermittelte Inhalte verweisen, die sich weder das ZAS noch die Humboldt-Universität zu Berlin zu eigen macht. Die Verantwortlichkeit liegt beim jeweiligen externen Anbieter (siehe Anbieterkennzeichnung, Impressum).
+Die externen Inhalte wurden beim Setzen des Links geprüft, jedoch ist es nicht auszuschließen, dass die Inhalte im Nachhinein von den jeweiligen Anbietern verändert werden. Sollten Sie der Ansicht sein, dass die verlinkten externen Seiten gegen geltendes Recht verstoßen oder sonst unangemessene Inhalte haben, so teilen Sie uns dies bitte mit.|
+| Ansprechperson und Institutsadresse | Leibniz-Zentrum Allgemeine Sprachwissenschaften <br> Schützenstraße 18 <br> 10117 Berlin <br> Deutschland <br> **und** <br> Humboldt-Univeristät zu Berlin <br> Institut für deutsche Sprache und Linguistik <br> Dorotheenstraße 24 <br> 10117 Berlin <br> Deutschland|
+| Gestaltung und Inhalte | Leibniz-Zentrum Allgemeine Sprachwissenschaften <br> Sophia Höbel|
