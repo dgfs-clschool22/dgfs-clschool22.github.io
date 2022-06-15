@@ -12,7 +12,7 @@
 ## Evenig Lectures
 
 | --- | --- |
-| Sept. 21, 18.00 | TITEL tba ([Tibor Kiss](https://ldsl.rub.de/members/tibor-kiss), Linguistics Data Science Lab)|
+| Sept. 21, 18.00 | **From Architect to Nothingness: what happened to Linguistics in Computational Linguistics?** ([Tibor Kiss](https://ldsl.rub.de/members/tibor-kiss), Linguistics Data Science Lab)|
 
 
 ## Course Abstracts
