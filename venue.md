@@ -3,7 +3,7 @@ In this section you will find information about the location and organisation of
 ## Location 
 
 Humboldt-Universität zu Berlin <br>
-Hausvoigteiplatz 5-7 <br>
+Hausvogteiplatz 5-7 <br>
 Room: 0202 <br>
 D-10117 Berlin <br>
 
