@@ -2,6 +2,7 @@
 
 **Due an unexpected turn of events, we are not able to host the computational Linguistic Fall School 2022. Therefore, a participation and registration is no longer possible.**
 
+
 ## Fee
 
 - ~~Early Bird: 40€ <br>~~
