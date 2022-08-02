@@ -1,8 +1,8 @@
 # Cancellation of the Computational Linguistic Fall School 2022
 
-Due an unexpectet turn of events, we are not able to host the computational Linguistic Fall School 2022. Therefore, a participation and registration is no longer possible. All those who have already registered will receive their full participation fee. We sincerely apologize for the inconvenience this cancellation caused! 
+**Due an unexpectet turn of events, we are not able to host the computational Linguistic Fall School 2022. Therefore, a participation and registration is no longer possible. All those who have already registered will receive their full participation fee. We sincerely apologize for the inconvenience this cancellation caused!** 
 
-If you have any questions, do not hestitate to contact us. 
+**If you have any questions, do not hestitate to contact us.** 
 
 -------------------------------------------------------------------------
 
