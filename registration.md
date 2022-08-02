@@ -1,6 +1,6 @@
 # Registration
 
-Due an unexpectet turn of events, we are not able to host the computational Linguistic Fall School 2022. Therefore, a participation and registration is no longer possible.
+**Due an unexpected turn of events, we are not able to host the computational Linguistic Fall School 2022. Therefore, a participation and registration is no longer possible.**
 
 ## Fee
 
